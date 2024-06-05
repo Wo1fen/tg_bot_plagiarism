@@ -1,3 +1,5 @@
 # Ignore config.json file
 config.json
-names.json
+names.jso
+pyvenv.cfg
+codes/
